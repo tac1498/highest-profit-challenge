@@ -61,7 +61,7 @@ public class HighestProfit {
       /*Top 20 Rows
         * parse array looking at profit column
         * sort data in descending order of profit
-          *JSON arrays contain attributes so I could look at the "profit" attribute of each row and sort based on numeric value by using a compare function
+          *JSON arrays contain attributes so I could look at the "profit" attribute of each row and sort based on NUMERIC value by using a compare function
         * display first 20 rows of new sorted array 
           * create new array of first 20 rows
           * print out new array as Answer 3
